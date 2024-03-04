@@ -1,0 +1,89 @@
+/* -----Home Start---------- */
+.Home {
+    background: url(https://img.freepik.com/free-vector/dark-gradient-background-with-copy-space_53876-99548.jpg?w=740&t=st=1698030218~exp=1698030818~hmac=71c6341c8c0e11c743b9e8e1b5e804c46452f7b142c5ed10efa96083886e5448);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.navbar-nav>li {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.navbar-nav>li {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.navbar-brand {
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.nav-item {
+    font-weight: 500;
+    font-size: 25px;
+    opacity: 0.6;
+    transition: 0.3s;
+    transition: width 0.3s ease 0s, left 0.3s ease 0s;
+
+}
+
+.nav-item a:hover {
+    color: #0ef;
+    opacity: 1;
+    width: 100%;
+}
+
+.Hussain_Hero {
+    color: aliceblue;
+}
+
+.social-media a {
+    display: inline-flex;
+    width: 40px;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+    background: transparent;
+    border: 2px solid #0ef;
+    border-radius: 50px;
+    font-size: 20px;
+    color: rgb(250, 246, 247);
+    text-decoration: none;
+    margin: 30px 15px 30px 0;
+}
+
+.docker {
+    color: pink;
+}
+
+.social-media a:hover {
+    background: #0ef;
+    color: black;
+    box-shadow: 0 0 20px #0ef;
+}
+
+.social-Mcaption {
+    font-weight: bold;
+    font-size: large;
+}
+
+.btn-box {
+    display: inline-block;
+    padding: 12px 28px;
+    border: 2px solid #0ef;
+    border-radius: 40px;
+    text-decoration: none;
+    font-weight: 600;
+    letter-spacing: 1;
+}
+
+.btn-box:hover {
+    background: #0ef;
+    color: black;
+    box-shadow: 0 0 20px #0ef;
+}
+
+/* -----Home End-------------- */

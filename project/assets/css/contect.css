@@ -1,0 +1,64 @@
+/* -------Contect Start----------- */
+.Contect {
+    background: rgb(14, 217, 231);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-radius: 25px;
+}
+
+.Contect-info {
+    color: rgb(40, 7, 83);
+
+}
+
+.Contect .label {
+    color: rgb(252, 174, 31) !important;
+    font-size: 25px;
+    padding-bottom: 12px;
+}
+
+.section-title {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.Contact-info h4 {
+    padding: 25px;
+    color: orange;
+}
+
+.Contact-info h4 i {
+    color: black;
+}
+
+.Contact-info h6 {
+    padding: 25px;
+    padding-right: 30px !important;
+}
+
+.contect-item {
+    border-radius: 25px !important;
+    width: 40px !important;
+    height: 40px !important;
+    background: transparent;
+    border: 2px solid rgb(40, 7, 83);
+}
+
+.contect-item:hover {
+    background: rgb(64, 77, 78);
+    color: black;
+    box-shadow: 0 0 20px rgb(64, 77, 78);
+}
+
+.contect-labelndID {
+    font-size: 25px;
+    font-family: 'Playpen Sans', cursive;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.contect-label {
+    color: rgb(235, 92, 35);
+}
+
+/* ------Contect--End---- */

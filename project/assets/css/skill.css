@@ -1,0 +1,89 @@
+/* -----Skill Start------------ */
+.Skill-part {
+    background-color: rgb(220, 190, 245);
+    padding-bottom: 50px;
+    padding-top: 50px;
+    border-radius: 25px;
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+
+.Skill-measure {
+    padding-top: 10px;
+}
+
+.Skill-measure label {
+    color: #0ef;
+    font-size: 20px;
+    font-weight: bold;
+    padding-bottom: 8px;
+
+}
+
+
+.skills {
+    width: 100%;
+    max-width: 600px;
+    padding: 0 20px;
+    align-items: center;
+    justify-content: center !important;
+}
+
+.skill-name {
+    font-size: 18px;
+    font-weight: 700;
+    color: #ee0909;
+    text-transform: uppercase;
+    margin: 20px 0;
+}
+
+.skill-bar {
+    height: 14px;
+    background: #282828;
+    border-radius: 3px;
+}
+
+.skill-per {
+    height: 14px;
+    background: #d13639;
+    border-radius: 3px;
+    position: relative;
+    animation: fillBars 2.5s 1;
+}
+
+.skill-per::before {
+    content: attr(per);
+    position: absolute;
+    padding: 4px 6px;
+    background: #f1f1f1;
+    border-radius: 4px;
+    font-size: 12px;
+    top: -35px;
+    right: 0;
+    transform: translateX(50%);
+}
+
+.skill-per::after {
+    content: "";
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background: #f1f1f1;
+    top: -20px;
+    right: 0;
+    transform: translateX(50%) rotate(45deg);
+    border-radius: 2px;
+}
+
+@keyframes fillBars {
+    from {
+        width: 0;
+    }
+
+    to {
+        width: 100%;
+    }
+}
+
+/* ---------Skill End--------- */
