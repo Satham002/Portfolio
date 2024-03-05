@@ -326,6 +326,12 @@ card:hover {
 .Decor {
     color: orange;
     font-weight: bold;
+
+}
+
+.toast-body {
+    color: rgb(16, 219, 26);
+    font-weight: bold;
 }
 
 @keyframes fillBars {

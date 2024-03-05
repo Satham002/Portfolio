@@ -59,6 +59,26 @@ include 'libs/load.php';
                         navigator.clipboard.writeText('sadh.sh12@gmail.com');
                     });
                 });
+                // -------PHONE NUMBER-------------
+                const toastTrigger1 = document.getElementById('copy-button-PhoneNO')
+                const toastLiveExample1 = document.getElementById('liveToast')
+
+                if (toastTrigger1) {
+                const toastBootstrap = bootstrap.Toast.getOrCreateInstance(toastLiveExample1)
+                toastTrigger1.addEventListener('click', () => {
+                    toastBootstrap.show()
+                });
+                }
+                // -----Email ID---------------
+                const toastTrigger2 = document.getElementById('copy-button-mailID')
+                const toastLiveExample2 = document.getElementById('liveToast')
+
+                if (toastTrigger2) {
+                const toastBootstrap = bootstrap.Toast.getOrCreateInstance(toastLiveExample2)
+                toastTrigger2.addEventListener('click', () => {
+                    toastBootstrap.show()
+                });
+                }
             </script>
 </body>
 

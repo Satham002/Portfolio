@@ -37,3 +37,10 @@
             </div>
         </div>
     </section>
+            <div class="toast-container position-fixed bottom-0 end-0" style="width:112px">
+                <div id="liveToast" class="toast" role="alert" aria-live="assertive" aria-atomic="true">
+                <div class="toast-body">
+                             Copied!&emsp;<button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+                        </div>
+                    </div>        
+                </div>
