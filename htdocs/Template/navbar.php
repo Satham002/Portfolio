@@ -1,7 +1,7 @@
 <div class="Home">
         <!-- Navbar -->
         <nav class="navbar navbar-expand-lg navbar-dark shadow-5-strong">
-            <div class="container-fluid">
+            <div class="container">
                 <a class="navbar-brand" href="#">Portfolio</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"

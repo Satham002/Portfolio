@@ -6,20 +6,24 @@
                 <p>"Im currently working on Straive E-publising Field with have experience two year</p>
                 <p>Studing on Web Enginnering. I Have Good knowledge on Programming and Script</p>
                 <p>Give a opportunity i ill prove myself."</p>
+                
 
             </blockquote>
             <br>
             <div class="social-media">
                 <h4 class="social-Mcaption">Im Available on below social media and Click im provide my Profile contect
                 </h4>
-                <a href="https://api.whatsapp.com/send?phone=919677803688&text=Hi%2C%20Satham" class="whatsapp"><i
+                <a href="https://api.whatsapp.com/send?phone=919677803688&text=Hi%2C%20Satham" data-bs-toggle="tooltip" data-bs-title="Whatsapp" class="whatsapp"><i
                         class="bi bi-whatsapp"></i></a>
-                <a href="https://t.me/Satham002" class="Telegram"><i class="bi bi-telegram"></i></a>
-                <a href="https://www.linkedin.com/in/satham-hussain-1106a0233" class="linkedin"><i
+                        <!-- TODO: Add Github icon -->
+                <!-- <a href="https://api.whatsapp.com/send?phone=919677803688&text=Hi%2C%20Satham" data-bs-toggle="tooltip" data-bs-title="Whatsapp" class="whatsapp"><i
+                        class="bi bi-whatsapp"></i></a> -->
+                <a href="https://t.me/Satham002"  data-bs-toggle="tooltip" data-bs-title="Telegram" class="Telegram"><i class="bi bi-telegram"></i></a>
+                <a href="https://www.linkedin.com/in/satham-hussain-1106a0233" data-bs-toggle="tooltip" data-bs-title="Linkedin" class="linkedin"><i
                         class="bi bi-linkedin"></i></a>
-                <a href="mailto:sadh.sh12@gmail.com?body=Hi%2C%20%0A%20%20Satham" class="mail"><i
+                <a href="mailto:sadh.sh12@gmail.com?body=Hi%2C%20%0A%20%20Satham" data-bs-toggle="tooltip" data-bs-title="Gmail" class="mail"><i
                         class="bi bi-envelope"></i></a>
-                <a href="https://git.selfmade.ninja/" class="Gitlab"><svg xmlns="http://www.w3.org/2000/svg" width="16"
+                <a href="https://git.selfmade.ninja/" data-bs-toggle="tooltip" data-bs-title="Gitlab" class="Gitlab"><svg xmlns="http://www.w3.org/2000/svg" width="16"
                         height="14" fill="currentColor" class="bi bi-gitlab" viewBox="0 0 16 16">
                         <path
                             d="m15.734 6.1-.022-.058L13.534.358a.568.568 0 0 0-.563-.356.583.583 0 0 0-.328.122.582.582 0 0 0-.193.294l-1.47 4.499H5.025l-1.47-4.5A.572.572 0 0 0 2.47.358L.289 6.04l-.022.057A4.044 4.044 0 0 0 1.61 10.77l.007.006.02.014 3.318 2.485 1.64 1.242 1 .755a.673.673 0 0 0 .814 0l1-.755 1.64-1.242 3.338-2.5.009-.007a4.046 4.046 0 0 0 1.34-4.668Z" />
@@ -39,5 +43,5 @@
                 </a>
 
             </div>
-            <a href="../assets/img/hussainCV" class="btn-box">Resume & CV</a>
+            <a href="../assets/img/Satham NEW.pdf" class="btn-box">Resume & CV</a>
 </div>

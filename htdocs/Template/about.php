@@ -62,7 +62,7 @@
                         </div>
                     </div>
 
-                    <p>
+                    <p class="mt-2">
                         "An imaginative web developer with a penchant for turning lines of code into captivating
                         digital
                         symphonies, weaving together user experiences that leave a lasting impression on the virtual

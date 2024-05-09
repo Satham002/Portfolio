@@ -334,6 +334,40 @@ card:hover {
     font-weight: bold;
 }
 
+.inline-name {
+    display: inline-block;
+    /* display: flex; */
+}
+
+.typewriter {
+    width: 21.5ch;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: 4px solid #212121;
+    animation: cursor 1s step-start infinite,
+        text 5s steps(10) alternate infinite;
+}
+
+
+
+@keyframes cursor {
+
+    0%,
+    100% {
+        border-color: #212121;
+    }
+}
+
+@keyframes text {
+    0% {
+        width: 0;
+    }
+
+    100% {
+        width: 21.5ch;
+    }
+}
+
 @keyframes fillBars {
     from {
         width: 0

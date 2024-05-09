@@ -15,7 +15,7 @@
                                     <br>Responsibilities: Typesetting from XML,MS-Word, or TeX/LaTeX based files,
                                     generate XML coding and editing. In two year</em>
                                 <ul>
-                                    <li>Joining year (2021-present)</li>
+                                    <li>Joining year (2021-2024)</li>
                                     <li>Address: Straive, Elcot IT park, Trichy, Tamil Nadu.</li>
 
                                 </ul>
@@ -55,7 +55,7 @@
                                 <p class="card-text"></p>
                                 <h4>Kerala Toursim</h4>
                                 <ul>
-                                    <li>This project Was created by my college days.</li>
+                                    <li>This project Was created by my college final Project.</li>
                                     <li>concept of this project basically Main tourist part of kerala and Hotel, travel
                                         booking.
                                     </li>
@@ -73,7 +73,7 @@
                                 <p class="card-text"></p>
                                 <h4>Model Flipkart</h4>
                                 <ul>
-                                    <li>This project Was created by recently.</li>
+                                    <li>This project was created by recently.</li>
                                     <li>Using Html, Css, Js and boostrap.&nbsp; <a
                                             href="https://tic-tac-toe.selfmade.one/flipkart/" class="Decor">Click me</a>
                                     </li>
