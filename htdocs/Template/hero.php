@@ -1,13 +1,15 @@
 <div class="Hussain_Hero px-3 py-5 my-5 text-center">
             <h3>Hello,</h3>
-            <h2>I am <span class="animate"></span></h2>
+            <div class="text-center mx-auto">
+                <h2>I&nbsp;am
+                <span class="bounce_in_animation">Satham Hussain</span>  
+                </h2>
+            </div>
             <h3>Webdevloper and Web architecture.</h3>
             <blockquote class="blockquote">
-                <p>"Im currently working on Straive E-publising Field with have experience two year</p>
+                <p>"working experience in Straive E-publising Field with have experience two year</p>
                 <p>Studing on Web Enginnering. I Have Good knowledge on Programming and Script</p>
                 <p>Give a opportunity i ill prove myself."</p>
-                
-
             </blockquote>
             <br>
             <div class="social-media">
